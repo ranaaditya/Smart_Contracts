@@ -1,2 +1,2 @@
 # Smart_Contracts
-smart contratcs written durig learning session 
+smart contratcs written during learning session 
